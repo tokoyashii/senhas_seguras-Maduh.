@@ -95,7 +95,7 @@ body{
     color: var(--branco);
     border: 2px solid var(--borda);
     padding: 24px;
-    font-size: 24px;
+    font-size: 20px;
 }
 .parametro-senha__texto{
     padding: 24px;
